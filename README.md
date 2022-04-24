@@ -65,6 +65,6 @@ Start the server
 #### How to run the application 
 
 open the file application.py and run the python file \
-Press CTRL and click on the IP address displayed in the terminal to open the application (eg: http://127.X.X.X:5000)
+Press and hold CTRL key and click on the IP address displayed in the terminal to open the application (eg: http://127.X.X.X:5000)
 
 
