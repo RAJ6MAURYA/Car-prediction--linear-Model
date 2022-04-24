@@ -20,7 +20,7 @@ def index():
 
 
 @app.route('/predict', methods=['POST'])
-def predict()
+def predict():
     company = request.form.get('company')
     car_model = request.form.get('car_model')
     year = int(request.form.get('year'))
